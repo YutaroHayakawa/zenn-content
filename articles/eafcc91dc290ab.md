@@ -7,7 +7,8 @@ topics:
   - "network"
   - "kernel"
   - "gso"
-published: false
+published: true
+published_at: "2024-04-22 16:54"
 ---
 
 This post primarily focuses on explaining the high-level behavior of Segmentation Offload for virtual network devices, keeping in mind the use cases in orchestrators for VMs or containers.
