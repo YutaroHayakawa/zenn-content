@@ -1,7 +1,7 @@
 {
   "name": "zenn-content",
   "version": "1.0.0",
-  "description": "",
+  "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "zenn-cli": "^0.1.153"
-  }
+    "zenn-cli": "^0.1.155"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YutaroHayakawa/zenn-content.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YutaroHayakawa/zenn-content/issues"
+  },
+  "homepage": "https://github.com/YutaroHayakawa/zenn-content#readme"
 }
